@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Crossfit-Bold';
+    src: url('/public/fonts/CrossfitDemo-Bold.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Crossfit-Regular';
+    src: url('/public/fonts/CrossfitDemo-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
