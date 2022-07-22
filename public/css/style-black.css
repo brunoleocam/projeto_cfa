@@ -7,14 +7,14 @@
 }
 
 body {
-    background-color: #FD980D;
+    background-color: #222222;
     max-width: 1200px;
     margin: 0 auto;
     padding: 15px;
 }
 
 header {
-    background-color: #FD980D;
+    background-color: #222222;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -41,7 +41,7 @@ nav {
 
 nav li {
     display: inline-block;
-    color: black;
+    color: white;
     font-family: Crossfit-Regular, Helvetica, sans-serif;
 }
 
@@ -52,23 +52,23 @@ nav li {
 
 #aula-free {
     border: 2px solid black;
-    background-color: black;
+    background-color: white;
     padding: 10px;
     border-radius: 15px;
 }
 
 #aula-free li{
-    color: #FD980D;
+    color: black;
 }
 
 #aula-free:hover {
-    border: 2px solid white;
-    background-color: white;
+    border: 2px solid black;
+    background-color: #FD980D;
     transition: 0.3s all;
 }
 
 #aula-free:hover li {
-    color: black;
+    color: white;
     transition: 0.3s all;
 }
 
@@ -83,16 +83,16 @@ nav li {
 }
 
 nav i {
-    color: black;
+    color: white;
 }
 
 nav i:hover {
-    color: white;
+    color: #FD980D;
     transition: 0.3s all;
 }
 
 nav li:hover {
-    color: white;
+    color: #FD980D;
     transition: 0.3s all;
 }
 
