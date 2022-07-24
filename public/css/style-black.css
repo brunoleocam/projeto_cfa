@@ -96,15 +96,24 @@ nav li:hover {
     transition: 0.3s all;
 }
 
+footer {
+    background-color: white;
+    padding: 15px;
+}
+
+.container-footer {
+    max-width: 1200px;  
+    margin: 0 auto;
+}
+
+footer section {
+    display: flex;
+    flex-direction: column;
+}
 footer img {
-    max-width:120px;
+    max-width:60px;
     max-height:30px;
     width: auto;
     height: auto;
+    padding: 5px;
 }
-
-
-
-
-
-
