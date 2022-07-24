@@ -8,9 +8,15 @@
 
 body {
     background-color: #FD980D;
+<<<<<<< HEAD
+=======
+
+}
+
+.container-header {
+>>>>>>> f1e0e9dbcf4c78399edf638532d672f616056dac
     max-width: 1200px;  
     margin: 0 auto;
-    padding: 15px;
 }
 
 header {
@@ -21,13 +27,12 @@ header {
     max-height: 60px;
     height: auto;
     justify-content: space-between;
-    padding: 20px;
-    margin-top: 20px;
+    padding: 15px;
 }
 
 header img {
-    max-width:420px;
-    max-height:120px;
+    max-width:290px;
+    max-height:60px;
     width: auto;
     height: auto;
 }
@@ -64,12 +69,12 @@ nav li {
 #aula-free:hover {
     border: 2px solid white;
     background-color: white;
-    transition: 0.3s all;
+    transition: 0.6s all;
 }
 
 #aula-free:hover li {
     color: black;
-    transition: 0.3s all;
+    transition: 0.6s all;
 }
 
 .Social-Media li {
@@ -88,12 +93,12 @@ nav i {
 
 nav i:hover {
     color: white;
-    transition: 0.3s all;
+    transition: 0.6s all;
 }
 
 nav li:hover {
     color: white;
-    transition: 0.3s all;
+    transition: 0.6s all;
 }
 
 
