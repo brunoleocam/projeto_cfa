@@ -96,6 +96,13 @@ nav li:hover {
     transition: 0.3s all;
 }
 
+footer img {
+    max-width:120px;
+    max-height:30px;
+    width: auto;
+    height: auto;
+}
+
 
 
 
